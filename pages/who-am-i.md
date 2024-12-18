@@ -16,10 +16,9 @@ hideInToc: true
 <br>
 
 - <mdi-account-circle /> **Name** - kazu_kichi_67
-- <carbon-book /> **Language** - Java (, Kotlin, Swift, PHP, C++)
-- <carbon-bookmark /> **Skill** - Registered Scrum Master
-- <carbon-bar /> **Hobby** - フットサル, スノボ, 爬虫類, キャンプ, サウナ, ウイスキー, クラフトビール
-- <carbon-activity /> **Interest** - Agile, DDD, Architecture, etc..
+- <carbon-book /> **Company** - 中堅独立系SIer 12年目
+- <carbon-bookmark /> **Skills** - Java / Spring Boot / Scrum Master / DDD / etc..
+- <carbon-bar /> **Hobby** - フットサル / キャンプ / サウナ / お酒 / etc..
 
 </div>
 </div>

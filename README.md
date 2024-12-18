@@ -1,4 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation Slide for エンジニアの成長を応援する忘年LT大会2024
+
+Event Page:
+https://engineers.connpass.com/event/338172/
+
+## Usage
 
 To start the slide show:
 

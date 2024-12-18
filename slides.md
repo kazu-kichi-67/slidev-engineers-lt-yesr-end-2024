@@ -1,7 +1,8 @@
 ---
 theme: seriph
+colorSchema: light
 background: https://cover.sli.dev
-title: My Presentation Template
+title: いつからだって遅くない！~中堅から始めるアウトプット生活~
 class: text-center
 drawings:
   persist: false
@@ -11,9 +12,13 @@ hideInToc: true
 lineNumbers: true
 ---
 
-# My Presentation Template
+## いつからだって遅くない！
 
-20yy/mm/dd presentation for XXXX
+## ~中堅から始めるアウトプット生活~
+
+<br>
+
+2024/12/19 presentation for 「エンジニアの成長を応援する忘年LT大会2024」
 
 @kazu_kichi_67
 
@@ -34,25 +39,201 @@ hide: false
 ---
 
 ---
-hideInToc: true
+layout: center
 ---
 
-# Agenda
+アウトプット1年生です。
+よろしくお願いします！
+
+<img src="/tsugaku_boy.png"/>
+
+---
+
+# なぜアウトプットを始めたのか？
 
 ***
 
 <br>
-<Toc maxDepth="2"/>
+
+<v-click>
+
+- <span v-mark.red>管理職を前にして、会社・組織のスケールについて考える</span>
+  - メンバーの帰属意識や満足度を高めて、人材の流出を防ぐ
+  - 組織のプレゼンスを高め、人材の流入を増やす
+  - 技術力をアピールして、新規案件を創出する
+
+</v-click>
+
+<br>
+
+<v-click>
+
+- <span v-mark.red>自らのキャリアについての悩み</span>
+  - 目の前の仕事は一生懸命やったけど、目に見える成果が残っていない
+  - 業務が変わる毎にリセットされる感覚で、積み上がっている感覚が薄い
+  - 業務に依存したスキル習得で、キャリア構築のアジリティが低い
+
+</v-click>
 
 ---
 layout: section
 ---
 
-# Section1
+<div id="highlight">
+よし、アウトプットだ！！！
+</div>
 
 ---
 
-## List Sample
+# 実績
+
+***
+
+<br>
+
+<div class="grid grid-cols-[50%_50%] gap-4">
+
+<div>
+
+### <span v-mark.red>2024年7月 Xのアカウント運用開始</span>
+
+<br>
+
+- 何を呟いたらいいのかわからない・・って人は、イベント参加系のポストから入るのがおすすめかも!
+- mixi2との棲み分けは模索中。。
+
+</div>
+
+<div>
+
+<Tweet id="1811924430932844876"/>
+
+</div>
+
+</div>
+
+---
+
+# 実績
+
+***
+
+<br>
+
+<div class="grid grid-cols-[60%_40%] gap-4">
+
+<div>
+
+### <span v-mark.red>2024年7月 Qiita投稿を開始</span>
+
+<br>
+
+- わりと時間かけて長編ばかり書いてきたので、もう少しライトに普段の技術メモを残すような使い方をしていきたい
+- Zennと使い分けることも検討中
+
+</div>
+
+<div>
+
+<img src="/Qiita.png"/>
+
+</div>
+
+</div>
+
+---
+
+# 実績
+
+***
+
+<br>
+
+### <span v-mark.red>2024年8月~11月 初プロポーザル提出 & 初登壇へ</span>
+
+<br>
+
+- 以前から参加していたJava系のカンファレンス
+- 初のスタッフも経験し、万年ボッチから脱却！
+
+<img src="/JJUG.png"/>
+
+---
+
+# 実績
+
+***
+
+<br>
+
+### 他にも・・
+
+- 本日、LT初登壇 <mdi-party-popper class="text-3xl text-orange-400 animate-ping"/><mdi-party-popper class="text-3xl text-orange-400 animate-ping"/><mdi-party-popper class="text-3xl text-orange-400 animate-ping"/>
+- イベントの参加レポート(はてなブログ)
+- 技術本を読んだレビュー(読書メーター)や感想記事の投稿(note)
+- アドベントカレンダーへの参加
+  - これから書く分を合わせて <span v-mark.circle.orange>7記事</span>の予定
+- 勉強会への参加
+  - 2024年は、<span v-mark.circle.orange>49個</span>のイベントに参加(connpass)
+  - DoorkeeperやTECH PLAYを含めるともう少し多い
+- 地味にDuolingoも始めて87日継続中（2024/12/19現在）
+
+---
+
+# 心境の変化
+
+***
+
+<br>
+
+### 今までは・・
+
+<v-click>
+
+- <span v-mark.red>ワークライフバランス警察やってました</span>
+  - 業務に関連するような部分だけ、半ば強制的に学んでいた
+
+</v-click>
+
+<br>
+
+### 今は・・・
+
+<v-click>
+
+- <span v-mark.red>エンジニアライフを楽しんでます</span>
+  - 会社に閉じてワークしていた頃と違い、外に目を向けることで私はエンジニアライフを選択していたことに気づいた
+  - 技術のキャッチアップやアウトプットはライフの一部となった
+
+</v-click>
+
+---
+
+# そしてただの記録厨へ
+
+***
+
+映画、アニメ、クラフトビール、ウイスキー、日本酒、サウナなど、何でも記録するようになりました。
+
+<div class="grid grid-cols-[35%_30%_35%] gap-4">
+
+<div>
+<Tweet id="1863895759294546145"/>
+</div>
+
+<div>
+<Tweet id="1862087371296301256"/>
+</div>
+
+<div>
+<Tweet id="1862743741460881918"/>
+</div>
+
+</div>
+
+---
+
+# 来年の抱負
 
 ***
 
@@ -60,171 +241,19 @@ layout: section
 
 <v-clicks>
 
-- aaa
-- bbb
-- ccc
+- 来年も自分のペースでエンジニアライフを楽しむ！
+- その活動が、相乗効果でワークにもプラスになるよう組織とベクトルを合わせる！
+- キャリアの方向性も見えてくるといいですね！
 
 </v-clicks>
-
-<style>
-  ul {
-    font-size: 18pt;
-  }
-</style>
-
----
-
-## Table Sample
-
-***
-
-Table Sample.
-
-|        |                              |
-| ------ | ---------------------------- |
-| AAAAAA | aaa                          |
-| BBB    | bbbbbbbb                     |
-| C      | <kbd>ccccccccccccccccc</kbd> |
-
----
-layout: section
----
-
-<div id="highlight-contents">
-highlight!!!
-</div>
-
-<style>
-  #highlight-contents {
-    font-size: 72pt;
-  }
-</style>
-
----
-layout: section
----
-
-# Section2
-
----
-
-## Code Sample
-
-***
-
-code sample.
-
-```java {*|3|2-4|1,5|*}
-class HelloWorld {
-	public static void main(String[] args) {
-		System.out.println("Hello, world.");
-	}
-}
-```
-
-<style>
-pre.slidev-code {
-    background-color: #1f2020;
-}
-</style>
-
----
-
-## Diagrams Sample
-
-***
-
-diagrams sample.
-
-<div class="grid grid-cols-4 gap-5 pt-4 -mb-6">
-
-```mermaid {scale: 0.5, alt: 'A simple sequence diagram'}
-sequenceDiagram
-    Alice->John: Hello John, how are you?
-    Note over Alice,John: A typical interaction
-```
-
-```mermaid {theme: 'neutral', scale: 0.8}
-graph TD
-B[Text] --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```mermaid
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```
-
-```plantuml {scale: 0.7}
-@startuml
-
-package "Some Group" {
-  HTTP - [First Component]
-  [Another Component]
-}
-
-node "Other Groups" {
-  FTP - [Second Component]
-  [First Component] --> FTP
-}
-
-cloud {
-  [Example 1]
-}
-
-database "MySql" {
-  folder "This is my folder" {
-    [Folder 3]
-  }
-  frame "Foo" {
-    [Frame 4]
-  }
-}
-
-[Another Component] --> [Example 1]
-[Example 1] --> [Folder 3]
-[Folder 3] --> [Frame 4]
-
-@enduml
-```
-
-</div>
-
----
-
-## Tips
-
-***
-
-The <span v-mark.red><code>code</code> directive</span>
-also allows you to add
-<span v-mark.circle.orange>inline marks</span>
-, powered by [Link](https://roughnotation.com/)
-
-<logos-java class="text-7xl m-3 absolute right-20" />
 
 ---
 layout: center
 class: text-center
-hideInToc: true
 ---
 
 # End
 
-<PoweredBySlidev mt-10 />
+Thank you for listening!
+
+良い アウトプット Lifeを！
